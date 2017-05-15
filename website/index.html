@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>JsTask</title>
+</head>
+<body>
+<div class="container">
+    <h1 class="title">Product List</h1>
+    <ul class="products-list" id="list"></ul>
+</div>
+<template id="template" style="display: none">
+    <li class="product-item">
+		<span class="product-item-img">
+		<img src="img/buy.jpg" alt="buy">
+		</span>
+        <h2 class="product-item__title"></h2>
+        <p class="content"></p>
+        <button class="product-item__buy-btn">Buy</button>
+        <span class="product-item__counter"></span>
+    </li>
+</template>
+<script src="script.js"></script>
+</body>
+</html>

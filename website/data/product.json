@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Product",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque corporis dignissimos eveniet minus molestiae nulla, officia, perferendis perspiciatis quam quasi qui quidem, similique temporibus? Ducimus necessitatibus repudiandae vero.",
+    "value": 0
+  },
+  {
+    "name": "Product2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque corporis dignissimos eveniet minus molestiae nulla, officia, perferendis perspiciatis quam quasi qui quidem, similique temporibus? Ducimus necessitatibus repudiandae vero..",
+    "value": 0
+  },
+  {
+    "name": "Product3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque corporis dignissimos eveniet minus molestiae nulla, officia, perferendis perspiciatis quam quasi qui quidem, similique temporibus? Ducimus necessitatibus repudiandae vero..",
+    "value": 0
+  },
+  {
+    "name": "Product4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque corporis dignissimos eveniet minus molestiae nulla, officia, perferendis perspiciatis quam quasi qui quidem, similique temporibus? Ducimus necessitatibus repudiandae vero..",
+    "value": 0
+  },
+  {
+    "name": "Product5",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque corporis dignissimos eveniet minus molestiae nulla, officia, perferendis perspiciatis quam quasi qui quidem, similique temporibus? Ducimus necessitatibus repudiandae vero..",
+    "value": 0
+  }
+]
